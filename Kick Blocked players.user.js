@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kick Blocked players
 // @version      1.0
-// @description  Count the number of blocked player
+// @description  kick blocked players
 // @author       hyonoka
 // @match        https://animemusicquiz.com/*
 // @grant        none
